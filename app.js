@@ -1,3 +1,4 @@
+const DATABASE_URL = 'postgres://michael_and_nabeels_wizard_news_user:jRCdxxwfEG0tj5ymRaa7AJR7tM3cludV@dpg-cesrb2arrk0dan12fup0-a.ohio-postgres.render.com/michael_and_nabeels_wizard_news'
 const express = require('express');
 const app = express();
 const postBank = require('./postBank');
